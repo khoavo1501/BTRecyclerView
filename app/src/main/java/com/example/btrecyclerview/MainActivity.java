@@ -39,6 +39,14 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewClick
         landmarkList_2224.add(new Landmark_2224("Vạn Lý Trường Thành", "Trung Quốc", android.R.drawable.ic_menu_compass));
         landmarkList_2224.add(new Landmark_2224("Đấu trường Colosseum", "Rome, Ý", android.R.drawable.ic_menu_manage));
         landmarkList_2224.add(new Landmark_2224("Kim tự tháp Giza", "Cairo, Ai Cập", android.R.drawable.ic_menu_send));
+        landmarkList_2224.add(new Landmark_2224("Taj Mahal", "Agra, Ấn Độ", android.R.drawable.ic_menu_today));
+        landmarkList_2224.add(new Landmark_2224("Cầu Cổng Vàng", "San Francisco, Mỹ", android.R.drawable.ic_menu_report_image));
+        landmarkList_2224.add(new Landmark_2224("Tháp nghiêng Pisa", "Pisa, Ý", android.R.drawable.ic_search_category_default));
+        landmarkList_2224.add(new Landmark_2224("Machu Picchu", "Peru", android.R.drawable.ic_menu_slideshow));
+        landmarkList_2224.add(new Landmark_2224("Điện Kremlin", "Moscow, Nga", android.R.drawable.ic_menu_manage));
+        landmarkList_2224.add(new Landmark_2224("Vịnh Hạ Long", "Quảng Ninh, Việt Nam", android.R.drawable.ic_dialog_alert));
+        landmarkList_2224.add(new Landmark_2224("Hồ Gươm", "Hà Nội, Việt Nam", android.R.drawable.ic_menu_myplaces));
+        landmarkList_2224.add(new Landmark_2224("Chợ Bến Thành", "TP. Hồ Chí Minh, Việt Nam", android.R.drawable.ic_menu_mylocation));
     }
 
     @Override
